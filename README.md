@@ -16,8 +16,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 - [Entregáveis](#entregáveis)
   - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
+- [Instruções para conhecer o projeto](#instruções-para-conhecer-o-projeto)
   - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
   - [Durante o desenvolvimento](#durante-o-desenvolvimento)
   - [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
@@ -43,10 +42,6 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
     - [10 - Criar tela de perfil de Administrador](#10---criar-tela-de-perfil-de-administrador)
     - [11 - Criar tela de pedidos de admin](#11---criar-tela-de-pedidos-de-admin)
     - [12 - Criar tela de Detalhes de admin](#12---criar-tela-de-detalhes-de-admin)
-    
-    `Bônus:`
-    - [13 - Cobertura de testes unitários](#13---cobertura-de-testes-unitários)
-- [Avisos Finais](#avisos-finais)
 
 ---
 
@@ -145,11 +140,7 @@ Para que seu projeto seja corretamente avaliado, siga as orientações a seguir:
 
   - Ao deslogar, remova completamente a chave `user` do `localStorage`.
 
-### Data de Entrega
-
-Data de entrega para avaliação final do projeto: `31/03/2021 - 14:00h`.
-
-# Instruções para entregar seu projeto
+# Instruções para conhecer o projeto
 
 ## Antes de começar a desenvolver
 
@@ -1207,35 +1198,4 @@ O que será verificado:
 ```
 ![Entregue](./public/pedidoentregue.png)
 
-### Bônus
-
-### 13 - Cobertura de testes unitários
-
-- Escreva testes unitários com cobertura de, no mínimo, 90%, considerando front-end e back-end;
-
----
-
-# Avisos finais
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
-
-Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
-
-#VQV
-
----
-
-### IMPORTANTE ⚠️ 
-
-* O projeto TryBeer é a base para o desenvolvimento do projeto TryBeer **v2**;
-
-* Portanto, **o cumprimento de 100% dos requisitos obrigatórios desse projeto** (TryBeer) é um pré-requisito para o projeto **TryBeer v2**;
-
-* O grupo precisa estar ciente que a não realização de todos os requisitos _(mesmo que o cumprimento pelo menos 80% dos requisitos obrigatórios para garantir a aprovação antes do prazo para entrar em recuperação, ou 90% dos requisitos totais depois do prazo)_, impactará na entrega do **TryBeer v2**;
-
-* O prazo disponível para esse projeto contempla o tempo previsto para atingir o objetivo de concluir 100% dos requisitos obrigatórios;
-
-* Dessa forma, o grupo terá todas as condições para chegar ao projeto **TryBeer v2** com o código preparado _(100% dos requisitos obrigatórios deste projeto)_ para iniciar o desenvolvimento dos seus requisitos.
-
-* O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
 
